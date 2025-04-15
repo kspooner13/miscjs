@@ -3770,13 +3770,13 @@ Expected function or array of functions, received type ${typeof e}.`), Q)
                     watch: !0
                 },
                 filterDurationFrom: {
-                    value: 0,
+                    value: 610,
                     type: "number",
                     persistent: !0,
                     watch: "filterDuration"
                 },
                 filterDurationTo: {
-                    value: 600,
+                    value: 9999999,
                     type: "number",
                     persistent: !0,
                     watch: "filterDuration"
